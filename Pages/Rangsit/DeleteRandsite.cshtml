@@ -1,0 +1,32 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    try
+    {
+        String itemid = Request.Query["itemid"];
+
+         
+        String connectionString = "Server=tcp:nutthapon.database.windows.net,1433;Initial Catalog=nutthapon;Persist Security Info=False;User ID=nutthapon;Password=Nn123456;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
+        using (SqlConnection connection = new SqlConnection(connectionString))
+        {
+            connection.Open();
+            String sql = "Delete FROM stocks WHERE itemid=@itemid";
+            using (SqlCommand command = new SqlCommand(sql, connection))
+            {
+                command.Parameters.AddWithValue("@itemid", itemid);
+
+                command.ExecuteNonQuery();
+            }
+        }
+
+    }
+    catch (Exception ex)
+    {
+    }
+
+    Response.Redirect("/Rangsit/IndexRangsit");
+
+
+}
+

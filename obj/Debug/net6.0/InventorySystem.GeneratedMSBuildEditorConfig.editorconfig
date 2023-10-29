@@ -1,0 +1,69 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = InventorySystem
+build_property.RootNamespace = InventorySystem
+build_property.ProjectDir = D:\code\C#\InventorySystem\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\code\C#\InventorySystem
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/code/C\#/InventorySystem/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/code/C\#/InventorySystem/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/code/C\#/InventorySystem/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/code/C\#/InventorySystem/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/code/C\#/InventorySystem/Pages/Rangsit/CreateRansit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmFuZ3NpdFxDcmVhdGVSYW5zaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/code/C\#/InventorySystem/Pages/Rangsit/DeleteRandsite.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmFuZ3NpdFxEZWxldGVSYW5kc2l0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/code/C\#/InventorySystem/Pages/Rangsit/EditRansit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmFuZ3NpdFxFZGl0UmFuc2l0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/code/C\#/InventorySystem/Pages/Rangsit/IndexRangsit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmFuZ3NpdFxJbmRleFJhbmdzaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/code/C\#/InventorySystem/Pages/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/code/C\#/InventorySystem/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/code/C\#/InventorySystem/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/code/C\#/InventorySystem/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/code/C\#/InventorySystem/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1lwvdvosz7
